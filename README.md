@@ -1,0 +1,1 @@
+This is about how to create docker images and run them as containers
